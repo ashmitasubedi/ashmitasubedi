@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am student currently studying BCA from trivhuwan universities i am learning the programming language and<br>i am mainly focus on web development python and business analysis and business intelligence alos the data analyst  i am hardworking and i am learning<br> 
+I am currently pursuing a BCA degree from Tribhuvan University with a strong interest in programming and data-driven fields. My key areas of focus are web development, Python, business analysis, business intelligence, and data analytics. I am a dedicated and hardworking learner, committed to continuously enhancing my skills through practical projects and continuous learning.<br> 
 
 
 ## 🌐 Socials:
